@@ -4,14 +4,19 @@
 
 ### Creational Patterns
 - Abstract Factory
+	- Functional 
+	- Structural
 - Builder
-- Factory Method
 - Prototype
+	- Deep Copy
+	- Serialization
+	- with Factory
 - Singleton
-
+	- DIP Safe
 
 ### Structural Patterns
 - Adapter
+	- Caching
 - Bridge
 - Composite
 - Decorator
